@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/Fondofin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+}
